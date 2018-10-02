@@ -1,20 +1,5 @@
-01_the_machine_learning_landscape.ipynb
-02_end_to_end_machine_learning_project.ipynb
-03_classification.ipynb
-04_training_linear_models.ipynb
-05_support_vector_machines.ipynb
-06_decision_trees.ipynb
-07_ensemble_learning_and_random_forests.ipynb
-08_dimensionality_reduction.ipynb
-09_up_and_running_with_tensorflow.ipynb
-10_introduction_to_artificial_neural_networks.ipynb
-11_deep_learning.ipynb
-12_distributed_tensorflow.ipynb
-13_convolutional_neural_networks.ipynb
-14_recurrent_neural_networks.ipynb
-15_autoencoders.ipynb
-16_reinforcement_learning.ipynb
 book_equations.ipynb
+math_linear_algebra.ipynb
 
 \.idea
 venv
